@@ -1,0 +1,39 @@
+Input Type : Binary
+               precision    recall  f1-score    # docs
+
+entertainment      75.00     60.00     66.67        20
+      finance      75.00     75.00     75.00        20
+    lifestyle      73.91     85.00     79.07        20
+       sports      81.82     90.00     85.72        20
+           tv      89.47     85.00     87.18        20
+
+    micro avg      79.00     79.00     79.00       100
+    macro avg      79.03     79.00     78.71       100
+     accuracy                          91.60       100
+
+Input Type : TF
+               precision    recall  f1-score    # docs
+
+entertainment      72.22     65.00     68.42        20
+      finance      70.00     70.00     70.00        20
+    lifestyle      71.43     75.00     73.17        20
+       sports      78.26     90.00     83.72        20
+           tv      88.89     80.00     84.21        20
+
+    micro avg      76.00     76.00     76.00       100
+    macro avg      76.16     76.00     75.90       100
+     accuracy                          90.40       100
+
+Input Type : TF-IDF
+               precision    recall  f1-score    # docs
+
+entertainment      60.00     45.00     51.43        20
+      finance      54.55     60.00     57.15        20
+    lifestyle      60.00     75.00     66.67        20
+       sports      80.00     80.00     80.00        20
+           tv      88.89     80.00     84.21        20
+
+    micro avg      68.00     68.00     68.00       100
+    macro avg      68.69     68.00     67.89       100
+     accuracy                          87.20       100
+

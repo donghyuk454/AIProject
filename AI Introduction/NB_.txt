@@ -1,0 +1,33 @@
+Accuracy: 80.0%
+Precision: 80.0%
+Recall: 80.0%
+F1: 80.00000000000001%
+
+Precision_ma: 81.72705314009661%
+Recall_ma: 80.0%
+F1_ma: 80.29242238789361%
+
+295	finance	-1674.85
+216	finance	-8764.33
+948	finance	-3778.85
+823	finance	-825.85
+392	finance	-5894.15
+851	finance	-899.22
+591	finance	-5472.02
+852	finance	-1316.15
+123	finance	-3689.9
+67	finance	-942.16
+969	finance	-1333.62
+839	finance	-1066.09
+212	finance	-3867.87
+729	finance	-2093.36
+141	finance	-1037.2
+586	finance	-2470.38
+808	finance	-1403.58
+90	finance	-2365.52
+531	finance	-1445.13
+671	finance	-2224.72
+165	finance	-2603.79
+648	finance	-3870.2
+184	finance	-1306.87
+660	finance	-1238.55

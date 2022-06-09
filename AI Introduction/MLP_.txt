@@ -1,0 +1,9 @@
+Accuracy: 76.0%
+Precision-micro: 76.0%
+Recall-micro: 76.0%
+F1-micro: 76.0%
+
+Precision-macro: 76.18327439151238%
+Recall-macro: 76.0%
+F1-macro: 75.79913110145668%
+
